@@ -10,8 +10,7 @@ export const user1Data = {
       unread: 3,
       status: '最後上線 下午 8:35',
       messages: [
-        { day: '今天', from: 'them', text: '阿仔，你今年已經第7年架啦wo', time: '下午 6:00' },
-        { from: 'them', text: '點解仲未畢業？', time: '下午 6:00' },
+        { day: '今天', from: 'them', text: '阿仔，你今年已經第7年架啦wsso', time: '下午 6:00' },
         { from: 'them', text: '你睇下人地陳太個Jayden，已經做到manager啦', time: '下午 6:01' },
         { from: 'them', text: '你都要俾心機啦', time: '下午 6:01' },
         { from: 'me', text: '我知呀媽', time: '下午 6:05' },
