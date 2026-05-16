@@ -68,8 +68,8 @@ export const user2Data = {
         { day: '2025/11/11 幾小時後', from: 'me', text: 'sorry我都係一時衝動，下次唔會㗎啦', time: '下午 2:30' },
         { from: 'them', text: '好，下次咪再犯', time: '下午 2:32' },
 
-        { day: '2026/01/28', from: 'me', text: '已安全到達日本', time: '上午 9:00' },
-        { from: 'them', text: '記著食supplement啊！', time: '上午 9:05' },
+        { day: '2026/01/28', from: 'them', text: '已安全到達日本', time: '上午 9:00' },
+        { from: 'me', text: '記著食supplement啊！', time: '上午 9:05' },
         { from: 'them', text: '好 有心了', time: '上午 9:07' },
 
         { day: '今日', from: 'them', text: '今天很忙 過來時帶飯俾我', time: '上午 10:00' },
