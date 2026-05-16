@@ -27,10 +27,9 @@ export const user1Data = {
       unread: 0,
       status: '最後上線 下午 3:00',
       messages: [
-        { day: '2026/1/27', from: 'me', text: 'professor 你幾時得閒？我想同你傾吓有關畢業嘅事', time: '上午 10:03' },
-        { from: 'them', text: '但現在工作市場不景氣 畢業即失業 我建議先不要想畢業', time: '上午 10:03' },
-        { from: 'me', text: '但係都係想同你面對面傾吓，傾吓畢業同埋人類一點絕發佈會', time: '上午 10:06' },
-        { from: 'them', text: '可', time: '上午 10:10' }, 
+        { day: '2026/1/28', from: 'me', text: 'professor 你幾藥盒漏左係我到 點算啊', time: '上午 11:09' },
+        { from: 'them', text: '吾緊要 都係幾日遮', time: '上午 11:15' },
+        { from: 'me', text: '好', time: '上午 11:26' },
 
         { day: '2026/2/27', from: 'me', text: 'professor 你幾時得閒？我想同你傾吓有關畢業嘅事', time: '上午 10:00' },
         { from: 'them', text: '但現在工作市場不景氣 畢業即失業 我建議先不要想畢業', time: '上午 10:03' },
