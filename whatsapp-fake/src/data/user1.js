@@ -27,7 +27,7 @@ export const user1Data = {
       unread: 0,
       status: '最後上線 下午 3:00',
       messages: [
-        { day: '2026/1/28', from: 'me', text: 'professor 你幾藥盒漏左係我到 點算啊', time: '上午 11:09' },
+        { day: '2026/1/28', from: 'me', text: 'professor 你有幾藥盒漏左係我到 點算啊', time: '上午 11:09' },
         { from: 'them', text: '吾緊要 都係幾日遮', time: '上午 11:15' },
         { from: 'me', text: '好', time: '上午 11:26' },
 
