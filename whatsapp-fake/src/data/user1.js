@@ -25,9 +25,9 @@ export const user1Data = {
       time: '上午 10:10',
       preview: '可',
       unread: 0,
-      status: '在線',
+      status: '最後上線 下午 3:00',
       messages: [
-        { day: '2026/1/27', from: 'me', text: 'professor 你幾時得閒？我想同你傾吓有關畢業嘅事', time: '上午 10:00' },
+        { day: '2026/1/27', from: 'me', text: 'professor 你幾時得閒？我想同你傾吓有關畢業嘅事', time: '上午 10:03' },
         { from: 'them', text: '但現在工作市場不景氣 畢業即失業 我建議先不要想畢業', time: '上午 10:03' },
         { from: 'me', text: '但係都係想同你面對面傾吓，傾吓畢業同埋人類一點絕發佈會', time: '上午 10:06' },
         { from: 'them', text: '可', time: '上午 10:10' }, 
